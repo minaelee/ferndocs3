@@ -1,2 +1,2 @@
-export { MinaeFerntest3ImdbApiError } from "./MinaeFerntest3ImdbApiError";
-export { MinaeFerntest3ImdbApiTimeoutError } from "./MinaeFerntest3ImdbApiTimeoutError";
+export { MinaeFerntest3TodoApiError } from "./MinaeFerntest3TodoApiError";
+export { MinaeFerntest3TodoApiTimeoutError } from "./MinaeFerntest3TodoApiTimeoutError";

@@ -1,7 +1,7 @@
-name: imdb-api
+name: todo-api
 error-discrimination:
-  strategy: status-code
+    strategy: status-code
 auth: bearer
 environments:
-  Sandbox: https://sandbox.example.com
+    Sandbox: https://sandbox.example.com
 default-environment: Sandbox
