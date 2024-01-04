@@ -1,7 +1,7 @@
 instances:
-  - url: your-organization.docs.buildwithfern.com
+  - url: minae-ferntest3.docs.buildwithfern.com
 
-title: Your Organization | Docs
+title: test 3 | Docs
 
 navigation:
   - section: Getting started
